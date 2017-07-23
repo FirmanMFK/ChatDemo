@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1066238986888",
+    "firebase_url": "https://lyrical-art-147915.firebaseio.com",
+    "project_id": "lyrical-art-147915",
+    "storage_bucket": "lyrical-art-147915.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066238986888:android:00383d1dddcc9a52",
+        "android_client_info": {
+          "package_name": "id.uwacoding.app.chatdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066238986888-j8be7hep1ndpmr7dbojcn1ap44tdi94a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.uwacoding.app.chatdemo",
+            "certificate_hash": "9f6f0d52d2a1aaead3a163ec5eeff813fa0efbe3"
+          }
+        },
+        {
+          "client_id": "1066238986888-djal8fi3q1g96b50ujacmsnoflbtq69j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKqBrkaAqyF6Jb91YVvVzMtDnnqHIvmnQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066238986888-djal8fi3q1g96b50ujacmsnoflbtq69j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
